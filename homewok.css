@@ -1,0 +1,30 @@
+body{
+	background-color: #FFFFE0; 
+}
+nav {
+
+	background-color: rgb(0,51,113);
+	height: 50;
+	}
+nav ul li {
+	display: inline-block;
+}
+nav li a {
+	color: rgb(225,225,225);
+	text-decoration: none;
+	line-height: 50px;
+	width: 150px;
+	display: block;
+	text-align: center;
+}
+nav ul li a:hover{background-color: rgb(225,225,225);color: rgb(0,51,113);font-size: 20x;font-family: "Mincrosoft YaHei";}
+div.side ul li style: none;background-color: rgb(0,51,113);
+	
+}
+.side {
+	width: 150px;
+}
+html, body{height: 100%;font-size: 20px;}
+.footer:after{height: 60px;}
+.footer{background: rgb(245,212,217); text-align: center;}
+.footer{position:absolute;bottom:0;width: 100%;}
